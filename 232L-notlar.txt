@@ -1,0 +1,30 @@
+Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Arasınav Notu	Deneysel sınav (Pratik)	Deneysel sınav (Teorik)
+11111111111	11.0	11.0	Raporunuzda X eksiktir																														
+90190201																																	
+90200222																																	
+90200223																																	
+90200255																																	
+90200267																																	
+90210208																																	
+90210210																																	
+90210211																																	
+90210239																																	
+90210247																																	
+90210249																																	
+90210250																																	
+90210251																																	
+90210262																																	
+90210266																																	
+90210269																																	
+90220210																																	
+90220220																																	
+90220227																																	
+90220233																																	
+90220236																																	
+90220242																																	
+90220247																																	
+90220249																																	
+90220251																																	
+90220258																																	
+90220720																																	
+90230260																																	
