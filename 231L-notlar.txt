@@ -27,16 +27,16 @@
 90220208																																	
 90220250																																	
 90230240																																	
-90220226																																	
-90220201																																	
-90220204																																	
-90220212																																	
-90230729																																	
-90230216																																	
-90230208																																	
-90220238																																	
-90220722																																	
-90220246																																	
+90220226		100.0	Raporunuz çok temiz ve güzel. Elinize sağlık.																														
+90220201		100.0	Raporunuz gayet başarılı ancak formatta belirtildiği üzere kimyasalların erime, kaynama, flash point, auto-ignition temp. gibi msds verilerini de barındırırsanız güzel olur. Bir puan kırmadım onun dışında. Yaptığınız yorumlar ve vardığınız noktalar yerinde. Bir hatanız yok sayılır. Tebrikler. 																														
+90220204		100.0	Rapor hk. bazı kısımlarınız aşırı yüzeysel. Örn. erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık.																														
+90220212		100.0	Tebrikler raporunuz çok güzel. Ancak lütfen föyü referans göstermeyin. Yorumlarınızda da bahsettiğimiz veri tabanları üzerinden saygın akademik dergilerden referans bulunuz. Tekrar tebrikler.																														
+90230729		100.0	Raporunuzda sadece sonuçları yazmışsınız ancak yorumlamamışsınız. Yüzeysel kalmış o kısımlar. İlk hafta olduğundan dolayı puan kaybetmediniz. Ayrıca referanslarınızı derste bahsettiğimiz gibi föy, wikipedia vs. gibi kaynaklardan değil, scopus WoS gibi veya Google Scholar gibi araçlar kullanarak bulduğunuz saygın akademik makalelerden veriniz. Bundan da ilk hafta olduğundan puan kaybı yaşamadınız. 																														
+90230216		95.0	Raporunuz ile ilgil bir puan kırmadım ancak şunu bilmenizi isterim; Sadece nasıl yaptığınız ve neler kullandığınız ile ilgilenmişsiniz. Bir şeyi rapor ederken ileride de gözlemlerinizi yorumlamalısınız da. Örneğin malzemeniz beklendiğinden daha düşük bir erime noktası gösteriyor ise bunu yorumlamalısınız veya tam tersi. Ayrıca referans eklememişsiniz (10p üzerinden 5p kırdım ilk hafta dolayısıyla)																														
+90230208		100.0	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.																														
+90220238		100.0	Raporunuzda referansların miktarını artırmalı ve nerede ona atıfta bulunduğunuzu göstermelisiniz. Ayrıca erimenin nerede olduğunu yazmışsınız fakat niçin orada olduğunu yazmamışsınız. Bu erken erimenin sebebini yorumlama kısmında belirtmelisiniz. 																														
+90220722		100.0	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.																														
+90220246		100.0	Raporunuz güzel elinize sağlık ancak değinmem gereken 1-2 nokta var. Bunlardan birisi bazı kısımlarınız yüzeysel kalmış olması. Örneğin erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. Ayrıca referanslarınızı uluslararası saygın makalelerden tercih ediniz. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık. 																														
 90220217																																	
 90210111																																	
 90220260																																	
