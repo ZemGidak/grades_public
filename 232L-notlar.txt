@@ -1,30 +1,30 @@
 Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Arasınav Notu	Deneysel sınav (Pratik)	Deneysel sınav (Teorik)
-11111111111	11.0	11.0	Raporunuzda X eksiktir																														
-90190201																																	
-90200222																																	
-90200223																																	
-90200255																																	
-90200267																																	
-90210208																																	
-90210210																																	
-90210211																																	
-90210239																																	
-90210247																																	
-90210249																																	
-90210250																																	
-90210251																																	
-90210262																																	
-90210266																																	
-90210269																																	
-90220210																																	
-90220220																																	
-90220227																																	
-90220233																																	
-90220236																																	
-90220242																																	
-90220247																																	
-90220249																																	
-90220251																																	
-90220258																																	
-90220720																																	
-90230260																																	
+AAA	11111111111	11.0	11.0	Raporunuzda X eksiktir																													
+Ayşe İkbal Çal (cala22)	90220258	80.0	85.0	Raporunuzda Aspirin sentez mekanizmasını çizmemişsiniz. Etil asetata kıyasla o kısımı çok yüzeysel yazıp geçiştirmişsiniz. UV'de mesela lambda max değerlerini nasıl hesapladınız? Yaptığınız deneylerin sonuçları ve yorumlamaları kısımlarında eksikleriniz var. Verim nasıl hesaplanabilirdi? Siz ne gözlemlediniz? Hızlı sülfürik asit döken arkadaşlarınız ne yaşadı vs. hiçbir gözleminizi belirtmemişsiniz. İlk hafta olduğu için fazla puan kaybetmediniz. 																													
+Başar Gültekin (gultekinb22)	90220249	90.0	85.0	Raporunuzda yazanın aksine (ilk şekil) karboksili asitlerin tuzları nükleofil olarak SN2 tarzında atak yapabilecek güçte, dolayısıyla ester sentezleyecek kabiliyette pek değillerdir. Tercih edilmezler bu bağlamda. Genellikle Elektrofil olarak kullanılırlar. Aspirin kısmınız zayıf kalmış. Hem mekanizması hem de onların spektral analizleri eksik. İlk hafta olduğu için fazla puan kırmadım. Onun dışında mekanizma gösterimleriniz gayet yerinde ve güzel. Referansların sayısı güncel ve yüksek impact değerine sahip dergilerle artırılabilir. 																													
+Buğra Baltan (baltan21)	90210239	40.0	100.0	Raporunuzda atak oklarınızı atomun üzerinde bitiriniz. Onun dışında raporunuz gayet güzel elinize sağlık. 																													
+Büşra Koç (kocbus21)	90210247	100.0	100.0	Raporunuz çok temiz ve güzel. Mekanizma oklarınız bazı yerlerde biraz salaşlaşmış ama olsun. GC kromatogramlarınız fazla sivriler, biraz daha Gaus eğrilerine benzetebilirsiniz. Referans olarak da Scopus, WoS ve Google Scholar'dan bulduğunuz yüksek impact değerine sahip dergilerdeki yayınları tercih ediniz. Elinize sağlık. 																													
+Helin Ünal (unalh22)	90220233	85.0	100.0	Raporunuz temiz ve güzel. Elinize sağlık. Ancak mekanizma gösterimlerinizde eksiklikler ve hatalar var. Buna ek olarak bazı noktalar yüzeysel kalmış. Aspirin sentezi için mekanizmanız yok ve derste sorduğumuz soruların cevapları yok. İlk hafta olduğundan puan kırmadım. Ayrıca referans olarak lab föyü yazmayın. Scopus, WoS veya Google Scholar kullanarak bulduğunuz saygın dergilerin makalelerinden atıf verin ve kullandığınız yeri gösterin rapor içerisinde. Onun dışında güzel gaet elinize sağlık																													
+İrem Sıla Albayrak (albayraki21)	90210251	100.0	100.0	Raporunuz çok temiz ve güzel. Elinize sağlık. Mekanizma ok gösterimleriniz de gayet iyi. Bir iki yerde nerede başlayıp bittikleri anlaşılmıyor ama olsun. Sadece referans olarak bir daha lab föyü yazmayın. Scopus, WoS veya Google Scholar kullanarak bulduğunuz saygın dergilerin makalelerinden atıf verin ve kullandığınız yeri gösterin rapor içerisinde. İlk hafta olduğundan bu konuda puan kaybetmediniz																													
+Kayra Nehir Yıldız (yildizka22)	90220251	90.0	95.0	Raporunuzda ok gösterimleriniz güzel başlıyor ama bir yerden sonra çok salaş. Nereden başlayıp bittikleri belli değil. Hatlarınız biraz daha keskin olmalı. IR çizimlerinizde de ufak ufak yorum getirebilirsiniz sadece işaretlemek yerine. Referans eklememişsiniz ayrıca. Scopus WoS veya Google Scholar gibi yerlerden yüksek impact değerine sahip dergilerin yayınlarından referanslar ekleyiniz bir dahakine. İlk hafta dolayısıyla az puan kaybettiniz. 																													
+Selenay İlhanlar (ilhanlar21)	90210262	80.0	100.0	Raporunuz çok temiz ve güzel. Elinize sağlık. Mekanizma ok gösterimleriniz de gayet iyi. Bir iki yerde fish hook a benzemiş ama istemli değil anlaşılıyor. TLC ile takip yapılabilir demişsiniz etil asetat sentezi için ama sonra yalanlamışsınız. Yapılamaz yargınız doğrudur. IR ile takip yapılabilir demişsiniz ancak ardından bir yorumunuz yok, OH bandının yok oluşunu kısa bir açıklama ile ekleyebilirdiniz. Aspirin sentezi mekanizması için gayet güzel. Ancak bir iki ince nokta var derste sorarsanız gösteririm. Elinize sağlık tekrardan.																													
+Şevval Nur Darcan (darcan21)	90210250	95.0	90.0	"Raporunuzda mekanizma gösteriminizde bazı oklarınız eksik. Ciddi hataya sebebiyet veriyor. Aspirin mekanizmasını ise raporunuzda çizersiniz demiştik ancak hiç çizmemişsiniz. İlk hafta olduğundan dolayı o kısımdan az puan kaybettiniz. Referanslarınız da ""lab föyü"" ""xxx sitesi"" gibi değil Scopus, WoS veya Google Scholar üzerinden bulunmuş yüksek impact değerine sahip dergilerden yayınlar olmalı diye konuşmuştuk. Ancak buradan puan kaybınız yoktur. "																													
+Yiğit Efe Turhan (turhany22)	90220210	50.0	100.0	Raporunuzda GC ile takip göstermişsiniz ancak esterleşme bir denge reaksiyonudur. Reaktantlar bitmez. Siz bitirmişsiniz. Mekanizma gösterimleriniz gayet iyi. Bir yerde bir ok dar alanda nereden çıkacağını bilememiş sadece ama olsun. Elinize sağlık																													
+Arif Erdem Çiçekci (cicekci20)	90220720	90.0																															
+Aykut Cemil Mural (mural19)	90190201	45.0																															
+Berk Alaattin Bektemur (bektemur22)	90220227	75.0																															
+Efe Tiryaki (tiryakie22)	90220236	10.0																															
+Eray Kaya (kayaer20)	90200223	50.0																															
+Meryem Tuğba Depe (depe20)	90200267	80.0																															
+Öncü Ulus Taner (taner21)	90210211	100.0																															
+Yağmur Kayıkcı (kayikci22)	90220242	90.0																															
+Ali Ekrem Yiğit (yigita23)	90230260	95.0																															
+Azra Defne Arıburnu (ariburnu22)	90220220	50.0																															
+Batuhan Gönenç (gonenc21)	90210269	60.0																															
+Elif Nur Çataklı (catakli21)	90210210	100.0																															
+Helin Oğuz (oguzh21)	90210239	40.0																															
+Mustafa Can Ünsal (unsalm20)	90200255	90.0																															
+Nazire Sevde Akıncı (akinci21)	90210266																																
+Nezihe Çiçek (cicekn22)	90220247	55.0																															
+Nil Elif Atasoy (atasoyn21)	90210249	60.0																															
+Süeda Nur Didin (didin20)	90200222	40.0																															
