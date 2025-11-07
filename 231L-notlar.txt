@@ -1,67 +1,67 @@
 Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Arasınav Notu
-90220240		95	Aşırı doygunluk vs. doygunluk kavramları pek anlaşılmamış gibi. Mentolün düzlemsel olduğu ima edilmiş, öyle olmadığı derste söylenmişti. Genel olarak güzel bir rapor.	80																											
-90220264		100	Genel olarak konu anlaşılmış ve derste verdiğim detaylar eklenmiş. Epey güzel bir rapor, teşekkürler.	55																											
-90220222		85	Deneyde naftalen kullanıldığı ima edilmiş; mentol kullanılmıştı. Kullanılan miktarlara dair herhangi bir sayı belirtilmemiş, lütfen raporda bunları da belirtelim. Erime noktası tayinine dair olan gözlemler neredeyse yok.	75																											
-90200217		90	Sıcak süzmenin yapılma nedeni anlaşılmamış gibi. Kullanılan miktarlara dair herhangi bir sayı belirtilmemiş. Genel olarak güzel bir rapor, teşekkürler.	65																											
-90230259		100	Derste verilen neredeyse tüm detaylar kusursuzca geri aktarılmış. Çok güzel bir rapor, teşekkürler.	70																											
-90220795		100	Derste verilen pek çok detay geri aktarılmış. Çok güzel bir rapor, teşekkürler.	100																											
-90220262		100	Erime noktası tayininde örnek hazırlarken kapiler tüp önce pürmüz ile kapatıldı, daha sonra içerisine madde eklendi; aksi pek tavsiye edilmez. Güzel bir rapor, teşekkürler.	70																											
-90230219		50	Özensiz, kısa, ve detaysız yazılmış. Süblimleşme ve erime noktası tayini bölümleri yok. 	40																											
-90210809		95	Çözünmek vs. erimek tabirleri arasındaki farka çok dikkat edelim. Bunun dışında güzel bir rapor, teşekkürler.	55																											
-90230228		100		80																											
-90220263		90		95																											
-90220215		85		45																											
-90230213		85		65																											
-90220265		90		75																											
-90230724		85	erime noktası prosedürü ve sorular eksik	15																											
-90220244		90		85																											
-90220055		85		60																											
-90220225		90		85																											
-90210252		95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	90																											
-90220230		95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	85																											
-90220256		95	Raporunuzda düzenekler çizilmeli ve her yapılan deneyin macı belirtilmelidr.	95																											
-90240755		95	Raporunuzun genel bilgi kısmı uzatılabilir, düzenekler çizilmeli ve her yapılan deneyin macı belirtilmelidr.	80																											
-90220269		95	Raporunuzun genel bilgi kısmı uzatılabilir.	50																											
-90220726		95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	85																											
-90220208		95	Yapılan deneylerde düzenekler çizilmelidir.	80																											
-90220250		95	Yapılan deneylerde düzenekler çizilmelidir ve amaç belirtilmelidir.	90																											
-90230240		95	Raporunuzda deney düzenekleri bulunmamaktadır.	60																											
-90220226		100	Raporunuz çok temiz ve güzel. Elinize sağlık.	100	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık.																									
-90220201		100	Raporunuz gayet başarılı ancak formatta belirtildiği üzere kimyasalların erime, kaynama, flash point, auto-ignition temp. gibi msds verilerini de barındırırsanız güzel olur. Bir puan kırmadım onun dışında. Yaptığınız yorumlar ve vardığınız noktalar yerinde. Bir hatanız yok sayılır. Tebrikler. 	95	100	Raporunuzda sistemlerin çizim kalitelerini artırırsanız daha iyi olur. Ancak güzel elinize sağlık.																									
-90220204		100	Rapor hk. bazı kısımlarınız aşırı yüzeysel. Örn. erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık.	80	100	Elinize sağlık. En sondaki Faz diyagramı çiziminde hata var. %100 etanolde adeta karışım kaynaması gösterecek gibi bir ayrılma var. Orada birleşmeliydi iki çizgi. Elinize sağlık.																									
-90220212		100	Tebrikler raporunuz çok güzel. Ancak lütfen föyü referans göstermeyin. Yorumlarınızda da bahsettiğimiz veri tabanları üzerinden saygın akademik dergilerden referans bulunuz. Tekrar tebrikler.	85	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık.																									
-90230729		100	Raporunuzda sadece sonuçları yazmışsınız ancak yorumlamamışsınız. Yüzeysel kalmış o kısımlar. İlk hafta olduğundan dolayı puan kaybetmediniz. Ayrıca referanslarınızı derste bahsettiğimiz gibi föy, wikipedia vs. gibi kaynaklardan değil, scopus WoS gibi veya Google Scholar gibi araçlar kullanarak bulduğunuz saygın akademik makalelerden veriniz. Bundan da ilk hafta olduğundan puan kaybı yaşamadınız. 	60	70	Raporunuzda vakum damıtması kısmı niçin yok? Ayrıca niçin her şeyi bir büyük sayfaya sığdırmaya çalışmışsınız? Raporunuzu bir giriş gelişme sonuç şeklinde sunabilirsiniz. QR kod üzerindeki taslağı inceleyiniz.																									
-90230216		95	Raporunuz ile ilgil bir puan kırmadım ancak şunu bilmenizi isterim; Sadece nasıl yaptığınız ve neler kullandığınız ile ilgilenmişsiniz. Bir şeyi rapor ederken ileride de gözlemlerinizi yorumlamalısınız da. Örneğin malzemeniz beklendiğinden daha düşük bir erime noktası gösteriyor ise bunu yorumlamalısınız veya tam tersi. Ayrıca referans eklememişsiniz (10p üzerinden 5p kırdım ilk hafta dolayısıyla)	40	80	Raporunuz güzel ancak şekilleriniz kötü ve eksik çizilmiş ve herhangi bir açıklama yok. (-10p) Ayrıca referans bulmamışsınız. (-10p)																									
-90230208		100	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.	60	100	Elinize sağlık. Düzenli ve temiz bir rapor yazmışsınız. Rapordan aldığınız notların darısı quizlerinizin başına olsun.																									
-90220238		100	Raporunuzda referansların miktarını artırmalı ve nerede ona atıfta bulunduğunuzu göstermelisiniz. Ayrıca erimenin nerede olduğunu yazmışsınız fakat niçin orada olduğunu yazmamışsınız. Bu erken erimenin sebebini yorumlama kısmında belirtmelisiniz. 	85	100	"Açıklamalarınız birçok noktada kısmen yüzeysel kalmış. Mesela hikaye anlatır gibi fraksiyon kolonu için ""kritik bir nokta vardır"" demişsiniz. Bilginizden emin değilseniz araştırıp doğruyu yazmalısınız ki öğrenme gerçekleşsin. Bahsettiğiniz şey teorik plaka sayısıdır."																									
-90220722		100	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.	65	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık. Sizin de rapordan aldığınız notların darısı quizlerinizin başına olsun.																									
-90220246		100	Raporunuz güzel elinize sağlık ancak değinmem gereken 1-2 nokta var. Bunlardan birisi bazı kısımlarınız yüzeysel kalmış olması. Örneğin erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. Ayrıca referanslarınızı uluslararası saygın makalelerden tercih ediniz. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık. 	90	100	Elinize sağlık.																									
-90220217				95																											
-90210111				90																											
-90220260				40																											
-90230254				60																											
-90230238				95																											
-90220211				40																											
-90220261				55																											
-90230217				60																											
-90220229				95																											
-90210232				85																											
-90210206				85																											
-90220231				80																											
-90210222				90																											
-90220268				95																											
-90220228				90																											
-90230236				85																											
-90220266				90																											
-90220255				90																											
-90230209				70																											
-90210263				65																											
-90220235				85																											
-90220259				75																											
-90220725				50																											
-90210240				70																											
-90220209				60																											
-90220257				85																											
-90230214				85																											
-90240253				90																											
-ORTALAMALAR	#DIV/0!	93,6	#DIV/0!	74,5	95,0	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!
+90220240	100	95	Aşırı doygunluk vs. doygunluk kavramları pek anlaşılmamış gibi. Mentolün düzlemsel olduğu ima edilmiş, öyle olmadığı derste söylenmişti. Genel olarak güzel bir rapor.	80			65			50																					
+90220264	100	100	Genel olarak konu anlaşılmış ve derste verdiğim detaylar eklenmiş. Epey güzel bir rapor, teşekkürler.	55			40			85																					
+90220222	60	85	Deneyde naftalen kullanıldığı ima edilmiş; mentol kullanılmıştı. Kullanılan miktarlara dair herhangi bir sayı belirtilmemiş, lütfen raporda bunları da belirtelim. Erime noktası tayinine dair olan gözlemler neredeyse yok.	75			50			85																					
+90200217	60	90	Sıcak süzmenin yapılma nedeni anlaşılmamış gibi. Kullanılan miktarlara dair herhangi bir sayı belirtilmemiş. Genel olarak güzel bir rapor, teşekkürler.	65			10			80																					
+90230259	75	100	Derste verilen neredeyse tüm detaylar kusursuzca geri aktarılmış. Çok güzel bir rapor, teşekkürler.	70			45			85																					
+90220795	100	100	Derste verilen pek çok detay geri aktarılmış. Çok güzel bir rapor, teşekkürler.	100			50			95																					
+90220262	85	100	Erime noktası tayininde örnek hazırlarken kapiler tüp önce pürmüz ile kapatıldı, daha sonra içerisine madde eklendi; aksi pek tavsiye edilmez. Güzel bir rapor, teşekkürler.	70			65			65																					
+90230219	45	50	Özensiz, kısa, ve detaysız yazılmış. Süblimleşme ve erime noktası tayini bölümleri yok. 	40			Gelmedi			Gelmedi																					
+90210809	75	95	Çözünmek vs. erimek tabirleri arasındaki farka çok dikkat edelim. Bunun dışında güzel bir rapor, teşekkürler.	55			75			60																					
+90230228	100	100		80	100		75	80		65																					
+90220263	70	90		95	100		65	100		90																					
+90220215	60	85		45	90		60	100		50																					
+90230213	75	85		65	100		65	95		65																					
+90220265	100	90		75	100		65	95		55																					
+90230724	60	85	erime noktası prosedürü ve sorular eksik	15	100		25	95		80																					
+90220244	100	90		85	90	"raporda prosedür yazılırken ""damıtılacak karışım"", ""damıtılan sıvı"" gibi ifadeler yerine hangi kimyasallar kullanıldıysa açıkça yazılmalı ve sonuçlar yorumlanmalıdır"	55	100		60																					
+90220055	50	85		60	100		50	100		90																					
+90220225	85	90		85	100		60	90		85																					
+90210252	85	95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	90			40			90																					
+90220230	100	95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	85			55			95																					
+90220256	100	95	Raporunuzda düzenekler çizilmeli ve her yapılan deneyin macı belirtilmelidr.	95			85			75																					
+90240755	85	95	Raporunuzun genel bilgi kısmı uzatılabilir, düzenekler çizilmeli ve her yapılan deneyin macı belirtilmelidr.	80			49			85																					
+90220269	85	95	Raporunuzun genel bilgi kısmı uzatılabilir.	50			70			50																					
+90220726	70	95	Yapılan deneylerde amaç belirtilmelidir ve düzenekler çizilmelidir.	85			80			85																					
+90220208	100	95	Yapılan deneylerde düzenekler çizilmelidir.	80			80			90																					
+90220250	0	95	Yapılan deneylerde düzenekler çizilmelidir ve amaç belirtilmelidir.	90			45			35																					
+90230240	10	95	Raporunuzda deney düzenekleri bulunmamaktadır.	60			50			55																					
+90220226	100	100	Raporunuz çok temiz ve güzel. Elinize sağlık.	100	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık.	90	100	Elinize sağlık. Tebrikler	75	100	Elinize sağlık. Dağılım katsayısı K değil D ile ifade edilir bilginiz olsun. Bir de ekstraksiyon şemasında imkansız bir molekül çizmişsiniz. Böyle bir hata kesinlikle bir daha yapmayın.																			
+90220201	100	100	Raporunuz gayet başarılı ancak formatta belirtildiği üzere kimyasalların erime, kaynama, flash point, auto-ignition temp. gibi msds verilerini de barındırırsanız güzel olur. Bir puan kırmadım onun dışında. Yaptığınız yorumlar ve vardığınız noktalar yerinde. Bir hatanız yok sayılır. Tebrikler. 	95	100	Raporunuzda sistemlerin çizim kalitelerini artırırsanız daha iyi olur. Ancak güzel elinize sağlık.	85	100	Kiral yapılar ile ilgili araştırmanız güzel olmuş elinize sağlık. Umarım faydalı olmuştur.	95	100	Referans kısımlarınızda lütfen WoS, Scopus gibi kaynaklardan alınmış referanslar kullanın.																			
+90220204	100	100	Rapor hk. bazı kısımlarınız aşırı yüzeysel. Örn. erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık.	80	100	Elinize sağlık. En sondaki Faz diyagramı çiziminde hata var. %100 etanolde adeta karışım kaynaması gösterecek gibi bir ayrılma var. Orada birleşmeliydi iki çizgi. Elinize sağlık.	60	90	Raporunuzda 10 Puan gecikme cezası aldınız.	70	100	Elinize sağlık.																			
+90220212	100	100	Tebrikler raporunuz çok güzel. Ancak lütfen föyü referans göstermeyin. Yorumlarınızda da bahsettiğimiz veri tabanları üzerinden saygın akademik dergilerden referans bulunuz. Tekrar tebrikler.	85	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık.	85	100	Elinize sağlık. Quizlerinizi de 100 yapın artık	95	100	Elinize sağlık çok güzel bir rapor hazırlamışsınız. Color wheel'dan ziyade dediğimiz şekilde renkleri düşünürseniz daha rahat edebileceğinizi düşünüyorum. Şu quizlerinizi de 100 yapın artık lütfen																			
+90230729	70	100	Raporunuzda sadece sonuçları yazmışsınız ancak yorumlamamışsınız. Yüzeysel kalmış o kısımlar. İlk hafta olduğundan dolayı puan kaybetmediniz. Ayrıca referanslarınızı derste bahsettiğimiz gibi föy, wikipedia vs. gibi kaynaklardan değil, scopus WoS gibi veya Google Scholar gibi araçlar kullanarak bulduğunuz saygın akademik makalelerden veriniz. Bundan da ilk hafta olduğundan puan kaybı yaşamadınız. 	60	90	Raporunuzda vakum damıtması kısmı niçin yok? Ayrıca niçin her şeyi bir büyük sayfaya sığdırmaya çalışmışsınız? Raporunuzu bir giriş gelişme sonuç şeklinde sunabilirsiniz. QR kod üzerindeki taslağı inceleyiniz.	45	100	Elinize sağlık. Quizlerinizi de yükseltin lütfen	85	100	Teşekkürler																			
+90230216	75	95	Raporunuz ile ilgil bir puan kırmadım ancak şunu bilmenizi isterim; Sadece nasıl yaptığınız ve neler kullandığınız ile ilgilenmişsiniz. Bir şeyi rapor ederken ileride de gözlemlerinizi yorumlamalısınız da. Örneğin malzemeniz beklendiğinden daha düşük bir erime noktası gösteriyor ise bunu yorumlamalısınız veya tam tersi. Ayrıca referans eklememişsiniz (10p üzerinden 5p kırdım ilk hafta dolayısıyla)	40	80	Raporunuz güzel ancak şekilleriniz kötü ve eksik çizilmiş ve herhangi bir açıklama yok. (-10p) Ayrıca referans bulmamışsınız. (-10p)	20	100	Elinize sağlık.	70	70	Raporunuzda isminizi yazmamışsınız. Ayrıca hiçbir sistemin çizimi yok ve kimyasal ekstraksiyon kısmına değinmemişsiniz. Föyü referans göstermemeniz gerektiğini WoS, Scopus gibi kaynaklardan ilgili referansları bulmanız gerektiğini de söylemiştik.																			
+90230208	100	100	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.	60	100	Elinize sağlık. Düzenli ve temiz bir rapor yazmışsınız. Rapordan aldığınız notların darısı quizlerinizin başına olsun.	80	100	Açıklamalarınız bir tık yüzeysel.Derste bahsettiklerinizden daha detaylı işledik konuyu. Toluen için Dean-Stark'ta SDS gibi bir detay verilebilirdi ayrıca. 	75	70	Raporunuzda herhangi bir sistem çizimi yapmamışsınız. Kimyasal ekstraksiyon kısmına ise hiç değinmemişsiniz.																			
+90220238	85	100	Raporunuzda referansların miktarını artırmalı ve nerede ona atıfta bulunduğunuzu göstermelisiniz. Ayrıca erimenin nerede olduğunu yazmışsınız fakat niçin orada olduğunu yazmamışsınız. Bu erken erimenin sebebini yorumlama kısmında belirtmelisiniz. 	85	100	"Açıklamalarınız birçok noktada kısmen yüzeysel kalmış. Mesela hikaye anlatır gibi fraksiyon kolonu için ""kritik bir nokta vardır"" demişsiniz. Bilginizden emin değilseniz araştırıp doğruyu yazmalısınız ki öğrenme gerçekleşsin. Bahsettiğiniz şey teorik plaka sayısıdır."	50	100		60	100	çizimleriniz çok kötü lütfen biraz daha özenin. Okuması da zor yazınızı.																			
+90220722	75	100	Raporunuz çok güzel tebrik ederim. Sadece malzemelerin MSDS'lerinden erime, kaynama, flash ve autoignition sıcaklıklarını eklerseniz güzel olabilir. Son olarak da spesifik tehlikeli bir durum yaratıyor ise onu. Onun dışında yorumlamalarınız ve önerileriniz yerinde ve çok güzel. Elinize sağlık.	65	100	Tebrik ederim. Çok güzel ve temiz bir rapor hazırlamışsınız. Elinize sağlık. Sizin de rapordan aldığınız notların darısı quizlerinizin başına olsun.	65	100	Elinize sağlık	60	100	Raporunuz gayet güzel tebrikler, sadece çizimlerinizde komponentlerin özelliklerine biraz daha dikkat etmeniz lazım. Sifon sistemi bir boru gibi, geri soğutucunun ceketi rastgele bir şey gibi duruyor. 																			
+90220246	100	100	Raporunuz güzel elinize sağlık ancak değinmem gereken 1-2 nokta var. Bunlardan birisi bazı kısımlarınız yüzeysel kalmış olması. Örneğin erime noktası analizinde 3 satır nasıl yapıldığını yazmışsınız. Peki ya kendi gözleminiz? Malzemeniz niçin erken eridi? Bunun altında yatan sebep ne olabilir? Yukarı yönlü bir hata varsa buna ne sebep olurdu gibi açıklamalarda da bulunmalısınız. Ayrıca referanslarınızı uluslararası saygın makalelerden tercih ediniz. İlk hafta olduğu için bir puan kırmadım. Elinize sağlık. 	90	100	Elinize sağlık.	50	100	En sondaki molekülün kiral olduğunu değil olup olamayacağını tartıştık. Buna örnek olarak da bazı kimyasalların sterik engel nedeni ile kiral merkezi olmadan kiral gibi davrandığından bahsetmiştik. Bu bağlamda bir sonuç açıklaması değil bilinen bir olgunun tekrarını dile getirmişsiniz sadece. 	75	100	Elinize sağlık.																			
+90220217	100	95	Deneysel sonuçları biraz daha detaylandırmalısınız	95	100	Tebrikler	55	100		100																					
+90210111	100	100	Tebrikler 	90	100	Tebrikler	60	100		75																					
+90220260	45	90	Deneyin sonunda bulunan soruları cevaplamamışsınız	40	100	Tebrikler	50	100		75																					
+90230254	75	100	Tebrikler 	60	100	Tebrikler	70	100		95																					
+90230238	100	100	Tebrikler 	95	100	Tebrikler	80	100		85																					
+90220211	10	0	Raporunuz yüklenmemiş	40	100	Tebrikler	50	100		50																					
+90220261	10	90	Deneysel sonuçları biraz daha detaylandırmalısınız	55	100	Tebrikler	0	100		40																					
+90230217	75	100	Tebrikler 	60	100	Tebrikler	75	100		80																					
+90220229	75	100	Tebrikler 	95	100	Tebrikler	100	100		95																					
+90230209	50	100	Tebrikler 	70	100	Tebrikler	85	100		70																					
+90210232	0	100		85	100		60	90		85																					
+90210206	25	85		85	100		35	100		75																					
+90220231	100	100		80	100		70	100		55																					
+90210222	60	90		90	60		60	50		75																					
+90220268	100	100		95	100		55	100		65																					
+90220228	75	100		90	100		45	100		95																					
+90230236	70	90		85	100		65	100		95																					
+90220266	100	85		90	100		65	100		85																					
+90220255	100	95		90	100		65	90		65																					
+90210263	75			65			80			85																					
+90220235	100			85			100			100																					
+90220259	100			75			60			75																					
+90220725	10			50			90			90																					
+90210240	25			70			65			45																					
+90220209	100			60			60			80																					
+90220257	100			85			30			85																					
+90230214	60			85			50			60																					
+90240253	75			90			60			65																					
+ORTALAMALAR	74,7	92,6	#DIV/0!	74,5	97,6	#DIV/0!	60,1	96,7	#DIV/0!	75,2	94,0	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!
