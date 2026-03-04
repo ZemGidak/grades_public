@@ -1,13 +1,13 @@
 Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Dönem Sınavı Notu	Rapor Ortalamaları	Temel İşlem Quizleri	Deney Quizleri	Genel Ortalama
-90210209	60		İlk sorudaki yorumunuz eksik. Sorulan sorunun karşılığı verilmemiş. Son sorudaki yorumunuz da eksik.																													#DIV/0!	60	#DIV/0!	#DIV/0!
-90220003	75		Kristalizasyonun nasıl yapıldığını açıklamamışsınız. Süblimasyonda da bir yargıda bulunmuşsunuz ancak açıklamanız yok.																													#DIV/0!	75	#DIV/0!	#DIV/0!
+90210209	60	90	İlk sorudaki yorumunuz eksik. Sorulan sorunun karşılığı verilmemiş. Son sorudaki yorumunuz da eksik.																													#DIV/0!	60	#DIV/0!	#DIV/0!
+90220003	75	85	Kristalizasyonun nasıl yapıldığını açıklamamışsınız. Süblimasyonda da bir yargıda bulunmuşsunuz ancak açıklamanız yok.																													#DIV/0!	75	#DIV/0!	#DIV/0!
 90220219																																#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!
-90220237	70		İlk soruda çözücü ile alakalı yorumlarınız eksik. Yöntem açıklamanız da eksik. Son sorunuzda çok küçük bir nokta var.																													#DIV/0!	70	#DIV/0!	#DIV/0!
-90220261	85		Vardığınız yargı için son soruda hiçbir açıklama yapmamışsınız.																													#DIV/0!	85	#DIV/0!	#DIV/0!
+90220237	70	100	İlk soruda çözücü ile alakalı yorumlarınız eksik. Yöntem açıklamanız da eksik. Son sorunuzda çok küçük bir nokta var.																													#DIV/0!	70	#DIV/0!	#DIV/0!
+90220261	85	65	Vardığınız yargı için son soruda hiçbir açıklama yapmamışsınız.																													#DIV/0!	85	#DIV/0!	#DIV/0!
 90230207																																#DIV/0!	#DIV/0!	#DIV/0!	#DIV/0!
-90230242	70		İlk sorunuzda yorum eksik. Son sorunuzda ise hatalı ve eksik																													#DIV/0!	70	#DIV/0!	#DIV/0!
-90230250	50		İlk sorunuz yarı doğru. Son sorunuz cevaplanmamış																													#DIV/0!	50	#DIV/0!	#DIV/0!
-140200062	0		Quizinizde üç sorunuzda çok temel hatalar var. Bambaşka şeyleri açıklamışsınız sürekli ve açıklamalarınız hep ters. Madde soğutularak uçurulur demişsiniz süblimleşme işlemi için, sıcakta çözmemeli soğukta çözmeli ideal çözücü demişsiniz? Tüm yargılarınız hatalı maalesef.																													#DIV/0!	0	#DIV/0!	#DIV/0!
+90230242	70	90	İlk sorunuzda yorum eksik. Son sorunuzda ise hatalı ve eksik																													#DIV/0!	70	#DIV/0!	#DIV/0!
+90230250	50	100	İlk sorunuz yarı doğru. Son sorunuz cevaplanmamış																													#DIV/0!	50	#DIV/0!	#DIV/0!
+140200062	0	100	Quizinizde üç sorunuzda çok temel hatalar var. Bambaşka şeyleri açıklamışsınız sürekli ve açıklamalarınız hep ters. Madde soğutularak uçurulur demişsiniz süblimleşme işlemi için, sıcakta çözmemeli soğukta çözmeli ideal çözücü demişsiniz? Tüm yargılarınız hatalı maalesef.																													#DIV/0!	0	#DIV/0!	#DIV/0!
 90210774	40	100	Quizinizde 1. sorunuz tamamen hatalı. 3. sorunuz ise yarım.		100	Elinize sağlık.																										100,0	40	#DIV/0!	#DIV/0!
 90220205	90	100	Quizinizde sadece son sorunuz hakkında süblimasyon verimi yorumunuz hatalı. Onun dışında kağıdınız gayet güzel elinize sağlık. 		100	Faz diyagramı çiziminiz kısmen hatalı. Ayrımın gerçekleştiği aralık zemine tam paralel gidiyor. Halbuki biraz eğim olmalıydı.																										100,0	90	#DIV/0!	#DIV/0!
 90220224	75	100	Quizinizde ilk soruda ufak bir hatanız var. Son soruda ise karşılaştırmada bulunmamışsınız ve işlemi düzgün tarif etmemişsiniz.		100	Elinize sağlık.																										100,0	75	#DIV/0!	#DIV/0!
