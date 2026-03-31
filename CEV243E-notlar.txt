@@ -1,35 +1,35 @@
-Öğrenci Numarası	Ödev 1 Notu	Ödev 1 Açıklama	Ödev 2 Notu	Ödev 2 Açıklama	Ödev 3 Notu	Ödev 3 Açıklama	Ödev 4 Notu	Ödev 4 Açıklama	Ödev 5 Notu	Ödev 5 Açıklama	Arasınav 1 Notu	Arasınav 1 Açıklama	Arasınav 2 Notu	Arasınav 2 Açıklama	Final Sınavı Notu	Final Sınavı Açıklama
-140180063																
-140200045											60	Birinci sorunuz eksik ve ikinci sorunuz yanlış tamamen. 4 ve 5'te de İngilizce'niz çok kötü, bir oradan bir buradan bahsetmişsiniz sürekli, bir akış yok ve değinmediğiniz noktalar var.				
-140210016																
-140210023											50	Birinci sorunuz eksik çok. İkinci sorunuz ise yanlış. Üçüncü sorunuzda CFC gazları ve uluslararası anlaşmalara değinmemişsiniz. Sera gazlarını da eksik yazmışsınız. 4. ve 5. sorularınızda da bazı tespit eksiklikleri var. 				
-140210038																
-140210044											55	Birinci sorunuz neredeyse tamamen hatalı. İkinci sorunuz eksik. 3. sorunuzda CFC gazları yanlış tanımlanmış ve bir Uluslararası antlaşma belirtilmemiş. 4. ve 5. sorunuzda da konu başlıkları nispeten eksik tartışılmış genel olarak.				
-140210909											75	For the first and second questions, some explanations are missing and there are some mistakes about filter types. on 3rd question CFC gas types are missing. 4th question, possible ecosystem change problems are not stated.				
-140210910											75	İlk sorunuzda SOx ve NOx'in sebep olduğu çevresel olaylar ve sağlık problemleri yanlış değerlendirilmiş. Ayrıca NOx azaltılamama nedeni tartışılmamış. 4. ve 5. sorularda ise kapsamları net açıklamamış ve sorunun bağlamından sapmışsınız.				
-140220032											75	Birinci sorunuzda NOx azalmama nedenini açıklamamışsınız. İkinci soruda tespit hatalı açıklamalar kısmen doğru. Üçüncü soruda ozon tabakası hk. bahsetmemişsiniz. 4. sorunuzda da eksik açıklanmış bir iki nokta var. 				
-140220045																
-140220046																
-140220056											40	İlk ve üçüncü sorunuz çok eksik. İkinci sorunuzda tespitiniz yanlış ama bazı doğru açıklamalarınız var. Dördüncü soruda da çok yanlış tespitleriniz var. 				
-140220063											65	İlk sorunuz tamamen yanlış. Üçüncü sorunuzda anlaşmalardan bahsetmemişsiniz. 4. soruda sanırım bazı yerleri yanlış anlamışsınız.				
-140220705																
-140230007																
-140230008																
-140230011																
-140230012																
-140230016																
-140230020																
-140230022																
-140230024																
-140230025																
-140230026											63	1. soruyu yanlış anlamışsınız. 3. sorunuz eksik 4. sorunuzun a ve c şıkkı hatalı tespitler var. 				
-140230029																
-140230035																
-140230036											90	İlk sorunuzda katalitik conv. çalışma şeklini yanlış anlayıp yanlış aktarmışsınız. Bu da SOx ve NOx hk. yorumun yanlış olmasına ve değişimlerin yanlış açıklanmasına neden olmuş.				
-140230037																
-140230038																
-140230045																
-140240018											85	İlk sorunuzda SOx salımının önlem yolları eksik. 3. sorunuzda gazları bazı polimerlerle karıştırmışsınız. 4. sorunuzda yeni kuş türü getirmenin ekosistem üzerindeki tehdidini tartışmamışsınız. 				
-140240702																
-140240904																
-ORTALAMALAR											66,6					
+Öğrenci Numarası	Ödev 1 Notu	Ödev 1 Açıklama	Ödev 2 Notu	Ödev 2 Açıklama	Ödev 3 Notu	Ödev 3 Açıklama	Ödev 4 Notu	Ödev 4 Açıklama	Ödev 5 Notu	Ödev 5 Açıklama	Arasınav 1 Notu	Arasınav 1 Açıklama
+140180063												
+140200045											60	Birinci sorunuz eksik ve ikinci sorunuz yanlış tamamen. 4 ve 5'te de İngilizce'niz çok kötü, bir oradan bir buradan bahsetmişsiniz sürekli, bir akış yok ve değinmediğiniz noktalar var.
+140210016											40	İlk sorunuz çok eksik. İkinci sorunuz yanlış. Genel olarak İngilizce'niz hiç anlaşılmıyor ve yanlışlarla dolu. 3. sorunuz doğru kabul edilebilir ancak 4 ve 5'te de eksik noktalar bırakmışsınız hep.
+140210023											50	Birinci sorunuz eksik çok. İkinci sorunuz ise yanlış. Üçüncü sorunuzda CFC gazları ve uluslararası anlaşmalara değinmemişsiniz. Sera gazlarını da eksik yazmışsınız. 4. ve 5. sorularınızda da bazı tespit eksiklikleri var. 
+140210038											45	İlk iki sorunuz eksik cevaplanmış. Üçüncü sorunuz hatalı. Son iki soruda da tespitleriniz eksik maalesef.
+140210044											55	Birinci sorunuz neredeyse tamamen hatalı. İkinci sorunuz eksik. 3. sorunuzda CFC gazları yanlış tanımlanmış ve bir Uluslararası antlaşma belirtilmemiş. 4. ve 5. sorunuzda da konu başlıkları nispeten eksik tartışılmış genel olarak.
+140210909											75	For the first and second questions, some explanations are missing and there are some mistakes about filter types. on 3rd question CFC gas types are missing. 4th question, possible ecosystem change problems are not stated.
+140210910											75	İlk sorunuzda SOx ve NOx'in sebep olduğu çevresel olaylar ve sağlık problemleri yanlış değerlendirilmiş. Ayrıca NOx azaltılamama nedeni tartışılmamış. 4. ve 5. sorularda ise kapsamları net açıklamamış ve sorunun bağlamından sapmışsınız.
+140220032											75	Birinci sorunuzda NOx azalmama nedenini açıklamamışsınız. İkinci soruda tespit hatalı açıklamalar kısmen doğru. Üçüncü soruda ozon tabakası hk. bahsetmemişsiniz. 4. sorunuzda da eksik açıklanmış bir iki nokta var. 
+140220045											45	3. sorunuzda antlaşma ve CFC gaz örneklerinizde hatalar var. 2. soruda kokuya etkili demişsiniz. Ancak onu uçucu organik bileşikler olarak klasifiye etmeniz gerekirdi. İlk sorunuz hatalı. Son iki soruda ise yorumlarınız yüzeysel kalmış ve hatalar var. 
+140220046											45	İlk sorunuz çok eksik. İkinci sorunuzda bir sorun yok. 3. sorunuzda antlaşma örneği var demişsiniz ancak isim verememişsiniz. 4. sorunuz tamamen yanlış. 5. sorunuzda ise bazı yerlerde doğru yorumlarınız var gibi ancak İngilizce üzerinde ciddi çalışmalısınız. Ne dediğiniz de anlaşılmıyor, sürekli kopuk kopuk yerlerden bahsetmişsiniz yarısı doğru yarısı yanlış şekilde. 
+140220056											40	İlk ve üçüncü sorunuz çok eksik. İkinci sorunuzda tespitiniz yanlış ama bazı doğru açıklamalarınız var. Dördüncü soruda da çok yanlış tespitleriniz var. 
+140220063											65	İlk sorunuz tamamen yanlış. Üçüncü sorunuzda anlaşmalardan bahsetmemişsiniz. 4. soruda sanırım bazı yerleri yanlış anlamışsınız.
+140220705												
+140230007											65	İlk ve ikinci sorunuz yarım. Net yanlış ve eksik tespitleriniz var iki soruda da. 3. soruda ise hatanız küçük. 4. ve 5. sorularda değinmediğiniz bazı noktalar var.
+140230008											60	İlk sorunuzda eksikler var. İkinci sorudaki eksiklik daha az. 3. soruda açıklamanızda büyük hatalar var. 4. soru yorumlarınız daha yüzeysel kalmış ancak 5. sorunuz bu konuda daha başarılı.
+140230011											65	Birinci sorunuzda ciddi eksiklikler var. İkinci sorunuzda yine bazı eksiklikler mevcut. 3. sorunuzda CFC gazlarına örnek vermemişsiniz. Dördüncü ve beşinci sorularınız ise daha düzgün cevaplanmışlar ancak tartışılmamış bazı noktalar bırakmışsınız.
+140230012											60	Birinci sorunuz çok eksik. İkinci sorunuzda ise daha ufak eksiklikler var. CFC gazlarına örnekler vermemişsiniz. 4. sorunuzda tespitleriniz yüzeysel ve eksik kalmışlar. 5. sorunuz nispeten daha etraflıca düşünülerek cevaplanmış
+140230016											55	Birinci sorunuz yanlış. İkinci sorunuz doğrudur. Üçüncü sorunuzda açıklamalarınız ve örneklerinizde eksiklik/hatalar var. Son iki sorunuzdaki tespitler de nispeten yüzeysel kalmış. Bu sorularda örn. getirilen kuş türünün ekosisteme etkileri, GDO'lu tarım ürünlerinin yine de tarım ilaçları ile kontamine olabileceği, sadece buna dayanım göstereceği gibi olaylar tartışılmamış hiç
+140230020											50	ilk sorunuz eksik cevaplanmış. İkinci sorunuz ise yanlış bilgi içeriyor, yazı tura atılıp doğru cevaba çıkmış adeta. 2 yanlış bilgi ile doğruya ulaşmış gibi olmuşsunuz. 4 ve 5'te de tespitleriniz eksik.
+140230022											35	Tüm sorularda ciddi eksiklikler mevcut.
+140230024											25	Tüm sorularda ciddi eksiklikler ve hatalar mevcut.
+140230025												
+140230026											63	1. soruyu yanlış anlamışsınız. 3. sorunuz eksik 4. sorunuzun a ve c şıkkı hatalı tespitler var. 
+140230029											50	Birinci sorunuz hatalı. Diğer tüm sorularda ise açıklamalarınızda eksiklikler ve yetersizlikler mevcut.
+140230035											70	1. sorunuz neredeyse tamamen yanlış. Puan kayıbınızın çoğu buradan. ikinci ve dördüncü sorularda eksiklikleriniz mevcut.
+140230036											90	İlk sorunuzda katalitik conv. çalışma şeklini yanlış anlayıp yanlış aktarmışsınız. Bu da SOx ve NOx hk. yorumun yanlış olmasına ve değişimlerin yanlış açıklanmasına neden olmuş.
+140230037											32	Tüm sorularda ciddi eksiklikler mevcut.
+140230038											52	İlk sorunuz neredeyse tümüyle yanlış. Son iki sorunuzda ciddi tespit eksiklikleriniz var. 
+140230045											85	İlk sorunuz güzel ancak açıklamalar bir tık artırılabilirdi. Tek örnekle geçiştirilmiş sadece. İkinci sorunuzda bir iki eksiklik var. Şöyle ki aktif karbon organik malzeme filtreler demişsiniz. Bunu açmalısınız. Nasıl malzemeler? 3. sorunuzda ise CFC'lere örnek belirtmemişsiniz. 4. sorunuzda GDO'lı ürünlerin yine de pestisitler ile kontamine olabileceği, sadece bu kontaminasyona dayanıyor oluşu hk. bir yorum yapabilirdiniz belki. Ancak arkadaşlarınıza göre yorumlarınız çok daha iyi yönde öne çıkıyor. Bir puan kaybetmediniz dolayısıyla. Son soruda da b şıkkında intake filtrasyonu göldeki kirliliğe çözümü hk. yeterli olmayabilir. c şıkkı ise kirletme önlemleri alınmadan kirliliği dışarıya taşıyacaktır. Bu noktalar pek tartışılmamış.
+140240018											85	İlk sorunuzda SOx salımının önlem yolları eksik. 3. sorunuzda gazları bazı polimerlerle karıştırmışsınız. 4. sorunuzda yeni kuş türü getirmenin ekosistem üzerindeki tehdidini tartışmamışsınız. 
+140240702											40	İlk sorunuz neredeyse hiç cevaplanmamış. İkinci sorunuz yanlış. 3. sorunuzda ufak bir eksiklik var. 4 ve 5'te de bazı eksik tespitleriniz var. 
+140240904											25	First answer is completely irrelevant. Second and third ones are incorrect. Fourth and fifth answers are again irrelevant and not deep enough. 
+ORTALAMALAR											55,9	
