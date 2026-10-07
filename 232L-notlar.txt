@@ -1,1 +1,39 @@
+Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Dönem Sınavı Notu	Rapor Ortalamaları	Temel İşlem Quizleri	Deney Quizleri	Genel Ortalama
+90210232	10.0																																		
+90210263	55.0																																		
+90220228	45.0																																		
+90220235	85.0																																		
+90220244	90.0																																		
+90220256	85.0																																		
+90220261	80.0																																		
+90220719	60.0																																		
+90230214	5.0																																		
+90230259	95.0																																		
+90210209	55.0																																		
+90230217	80.0																																		
+90220224	85.0																																		
+90250706	40.0																																		
+90210266	75.0																																		
+90210774	85.0																																		
+90220230	90.0																																		
+90220259	95.0																																		
+90220269	55.0																																		
+90230207																																			
+140200062	65.0																																		
+90230250	45.0																																		
+90240755	70.0																																		
+90220205	30.0																																		
+90220201	90.0																																		
+90210252	85.0																																		
+90210272	65.0																																		
+90220212	100.0																																		
+90220237	85.0																																		
+90220250	65.0																																		
+90220266	80.0																																		
+90220725	80.0																																		
+90230236	65.0																																		
+90230245	100.0																																		
+90230724	75.0																																		
+90230216	80.0																																		
+ORTALAMALAR	70.0																																		
 
