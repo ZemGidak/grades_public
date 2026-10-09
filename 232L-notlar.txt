@@ -1,39 +1,39 @@
-Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama	Quiz 4 Notu	Rapor 4 Notu	Hafta 4 Açıklama	Quiz 5 Notu	Rapor 5 Notu	Hafta 5 Açıklama	Quiz 6 Notu	Rapor 6 Notu	Hafta 6 Açıklama	Quiz 7 Notu	Rapor 7 Notu	Hafta 7 Açıklama	Quiz 8 Notu	Rapor 8 Notu	Hafta 8 Açıklama	Quiz 9 Notu	Rapor 9 Notu	Hafta 9 Açıklama	Quiz 10 Notu	Rapor 10 Notu	Hafta 10 Açıklama	Dönem Sınavı Notu	Rapor Ortalamaları	Temel İşlem Quizleri	Deney Quizleri	Genel Ortalama
-90210232	10.0																																		
-90210263	55.0																																		
-90220228	45.0																																		
-90220235	85.0																																		
-90220244	90.0																																		
-90220256	85.0																																		
-90220261	80.0																																		
-90220719	60.0																																		
-90230214	5.0																																		
-90230259	95.0																																		
-90210209	55.0																																		
-90230217	80.0																																		
-90220224	85.0																																		
-90250706	40.0																																		
-90210266	75.0																																		
-90210774	85.0																																		
-90220230	90.0																																		
-90220259	95.0																																		
-90220269	55.0																																		
-90230207																																			
-140200062	65.0																																		
-90230250	45.0																																		
-90240755	70.0																																		
-90220205	30.0																																		
-90220201	90.0																																		
-90210252	85.0																																		
-90210272	65.0																																		
-90220212	100.0																																		
-90220237	85.0																																		
-90220250	65.0																																		
-90220266	80.0																																		
-90220725	80.0																																		
-90230236	65.0																																		
-90230245	100.0																																		
-90230724	75.0																																		
-90230216	80.0																																		
-ORTALAMALAR	70.0																																		
-
+Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama
+90210209	55.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 
+90210232	10.0	0.0	Rapor yüklenmemiş
+90210263	55.0	95.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi, peki, tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Sülfolamalardan vs bahsettik ancak sondaki yorumlamalarınız kapsayıcı değil. Ayrıca spektral analizleri göstermemişsiniz sadece dalga boylarından bahsetmişsiniz. FTIR, UV veya NMR gibi spektral yöntemleri işlevsizse nedenini belirtmenizi, işlevsel olanın da nasıl bir spektrum vereceğini çizmenizi bekliyoruz. İlk hafta olduğudnan fazla puan kırmadım. 
+90220228	45.0	80.0	Reaksiyon mekanizmalarını ve spektral analizleri göstermemişsiniz. İlk hafta olduğundan az puan kırdım.
+90220235	85.0	100.0	Elinize sağlık. Çok güzel bir rapor tebrikler.
+90220244	90.0	95.0	Elinize sağlık. Mekanizma gösterimlerinizde eksik oklar var. Son ürüne kadar götürmelisiniz oklarınızı. Elektronun vardığı son atoma veya bağa kadar devam etmeli. Bu sınavda eksik puan almanıza neden olacaktır. Raporlarınızda yanlış yaptığınız zaman puan kırmıyorum, yapılmayanlardan kırıyorum. Dolayısıyla yanlış yapmaktan korkmayınız. Son olarak spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. İlk hafta olduğundan az puan kestim 
+90220256	85.0	100.0	Harika bir rapor tebrikler. 
+90220261	80.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 
+90220719	60.0	100.0	Tebrikler, ancak lütfen organik kimya laboratuvarı föyünü referans olarak göstermeyiniz.
+90230214	5.0	90.0	Quiziniz niçin 5? Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. Ayrıca yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. İlk hafta olduğundan az puan kestim 
+90230217	80.0	90.0	Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. 
+90230259	95.0	100.0	Bu rapordan geçmişte 90 almışsınız ancak ilk hafta olduğundan referans eksikliğinden puan kırmadım. Ayrıca raporunuzda yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. 
+90210266	75.0		
+90210774	85.0		
+90220205	30.0		
+90220224	85.0		
+90220230	90.0		
+90220259	95.0		
+90220269	55.0		
+90230207			
+90230250	45.0		
+90240755	70.0		
+90250706	40.0		
+140200062	65.0		
+90210252	85.0		
+90210272	65.0		
+90220201	90.0		
+90220212	100.0		
+90220237	85.0		
+90220250	65.0		
+90220266	80.0		
+90220725	80.0		
+90230216	80.0		
+90230236	65.0		
+90230245	100.0		
+90230724	75.0		
+90220248	65.0		
+ORTALAMALAR	69.9	85.8	
