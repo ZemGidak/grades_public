@@ -1,16 +1,16 @@
 Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama
-90210209	55.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 
-90210232	10.0	0.0	Rapor yüklenmemiş
-90210263	55.0	95.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi, peki, tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Sülfolamalardan vs bahsettik ancak sondaki yorumlamalarınız kapsayıcı değil. Ayrıca spektral analizleri göstermemişsiniz sadece dalga boylarından bahsetmişsiniz. FTIR, UV veya NMR gibi spektral yöntemleri işlevsizse nedenini belirtmenizi, işlevsel olanın da nasıl bir spektrum vereceğini çizmenizi bekliyoruz. İlk hafta olduğudnan fazla puan kırmadım. 
-90220228	45.0	80.0	Reaksiyon mekanizmalarını ve spektral analizleri göstermemişsiniz. İlk hafta olduğundan az puan kırdım.
-90220235	85.0	100.0	Elinize sağlık. Çok güzel bir rapor tebrikler.
-90220244	90.0	95.0	Elinize sağlık. Mekanizma gösterimlerinizde eksik oklar var. Son ürüne kadar götürmelisiniz oklarınızı. Elektronun vardığı son atoma veya bağa kadar devam etmeli. Bu sınavda eksik puan almanıza neden olacaktır. Raporlarınızda yanlış yaptığınız zaman puan kırmıyorum, yapılmayanlardan kırıyorum. Dolayısıyla yanlış yapmaktan korkmayınız. Son olarak spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. İlk hafta olduğundan az puan kestim 
-90220256	85.0	100.0	Harika bir rapor tebrikler. 
-90220261	80.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 
-90220719	60.0	100.0	Tebrikler, ancak lütfen organik kimya laboratuvarı föyünü referans olarak göstermeyiniz.
-90230214	5.0	90.0	Quiziniz niçin 5? Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. Ayrıca yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. İlk hafta olduğundan az puan kestim 
-90230217	80.0	90.0	Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. 
-90230259	95.0	100.0	Bu rapordan geçmişte 90 almışsınız ancak ilk hafta olduğundan referans eksikliğinden puan kırmadım. Ayrıca raporunuzda yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. 
+90210209	55.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım.	30	90	
+90210232	10.0	90.0	Gecikmiş rapor işlenmiştir	50	100
+90210263	55.0	95.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi, peki, tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Sülfolamalardan vs bahsettik ancak sondaki yorumlamalarınız kapsayıcı değil. Ayrıca spektral analizleri göstermemişsiniz sadece dalga boylarından bahsetmişsiniz. FTIR, UV veya NMR gibi spektral yöntemleri işlevsizse nedenini belirtmenizi, işlevsel olanın da nasıl bir spektrum vereceğini çizmenizi bekliyoruz. İlk hafta olduğudnan fazla puan kırmadım. 25	100
+90220228	45.0	80.0	Reaksiyon mekanizmalarını ve spektral analizleri göstermemişsiniz. İlk hafta olduğundan az puan kırdım.	40	80
+90220235	85.0	100.0	Elinize sağlık. Çok güzel bir rapor tebrikler.	80	100
+90220244	90.0	95.0	Elinize sağlık. Mekanizma gösterimlerinizde eksik oklar var. Son ürüne kadar götürmelisiniz oklarınızı. Elektronun vardığı son atoma veya bağa kadar devam etmeli. Bu sınavda eksik puan almanıza neden olacaktır. Raporlarınızda yanlış yaptığınız zaman puan kırmıyorum, yapılmayanlardan kırıyorum. Dolayısıyla yanlış yapmaktan korkmayınız. Son olarak spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. İlk hafta olduğundan az puan kestim	60	100
+90220256	85.0	100.0	Harika bir rapor tebrikler.	100	100
+90220261	80.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım.	50	85
+90220719	60.0	100.0	Tebrikler, ancak lütfen organik kimya laboratuvarı föyünü referans olarak göstermeyiniz.	70	95
+90230214	5.0	90.0	Quiziniz niçin 5? Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. Ayrıca yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. İlk hafta olduğundan az puan kestim	45	100
+90230217	80.0	90.0	Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter.	55	100
+90230259	95.0	100.0	Bu rapordan geçmişte 90 almışsınız ancak ilk hafta olduğundan referans eksikliğinden puan kırmadım. Ayrıca raporunuzda yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim.	95	100
 90210266	75.0		
 90210774	85.0		
 90220205	30.0		
