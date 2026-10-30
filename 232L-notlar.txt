@@ -1,39 +1,39 @@
-Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama
-90210209	55.0	90.0	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım.	30	90	Bir referans yetersiz ve açıklamalarınız eksik. X, Y, Z oldu değil o olaylar neden yaşandı? TLC tercih etmedik GPC daha iyi olur peki neden? Spektrumları vermişsiniz hiçbir açıklama eklememişsiniz kim nerede.
-90210232	10	90	Gecikmiş rapor işlenmiştir	50	100	Birçok ok gösteriminzde hata var.
-90210263	55	95	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi, peki, tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Sülfolamalardan vs bahsettik ancak sondaki yorumlamalarınız kapsayıcı değil. Ayrıca spektral analizleri göstermemişsiniz sadece dalga boylarından bahsetmişsiniz. FTIR, UV veya NMR gibi spektral yöntemleri işlevsizse nedenini belirtmenizi, işlevsel olanın da nasıl bir spektrum vereceğini çizmenizi bekliyoruz. İlk hafta olduğudnan fazla puan kırmadım.	25	100	Birçok ok gösteriminzde ciddi hatalar var.
-90220228	45	80	Reaksiyon mekanizmalarını ve spektral analizleri göstermemişsiniz. İlk hafta olduğundan az puan kırdım.	40	80	Spektral analizler ve ilgili açıklamaları yok. 1 referans yetersiz. Mekanizmada da + ve -'leri yuvarlak içine almalısın. Bazen almışsın bazen almamışsın hiç almasan daha iyi olabilirdi öyle karışık duruyor yani. 
-90220235	85	100	Elinize sağlık. Çok güzel bir rapor tebrikler.	80	100	Çok temiz ve güzel bir rapor elinize sağlık. Mekanizma gösterimlerinizde çok ufak 1-2 nokta var. O da atak oklarının elektrondan başlamsı gereği. Bir de enol keto tautomerizasyonunu rezonans olarak göstermişsiniz ancak hayır. O bir denge reaksiyonudur.
-90220244	90	95	Elinize sağlık. Mekanizma gösterimlerinizde eksik oklar var. Son ürüne kadar götürmelisiniz oklarınızı. Elektronun vardığı son atoma veya bağa kadar devam etmeli. Bu sınavda eksik puan almanıza neden olacaktır. Raporlarınızda yanlış yaptığınız zaman puan kırmıyorum, yapılmayanlardan kırıyorum. Dolayısıyla yanlış yapmaktan korkmayınız. Son olarak spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. İlk hafta olduğundan az puan kestim	60	100	Çok temiz ve güzel bir rapor. Tebrik ederim. Diyecek pek bir şey yok. Keşke quiz puanınız da benzer olsaymış.
-90220256	85	100	Harika bir rapor tebrikler.	100	100	Çok güzel rapor hazırlıyorsunuz. Tebrik ve teşekkür ederim. Hem quizinizin hem raporunuzun 100 olması oldukça güzel.
-90220261	80	90	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım.	50	85	Açıklamalarınız çok geçiştirme üzerine ve oldukça yetersiz. Yan ürün tahminleri vs. hiçbir şey bulunmuyor. Deneyde mekanizma anlatımımızı hatırlıyorsanız daha kaliteli açıklamalarla bu yan ürün oluşumlarını sizin ne gördüğünüzü vs. tartışmalısınız.Ek kaynakça sunmalısınız. 
-90220719	60	100	Tebrikler, ancak lütfen organik kimya laboratuvarı föyünü referans olarak göstermeyiniz.	70	95	Referans sayısını arıtmalısınız. Yan ürün tartışmaları yapılabilir
-90230214	5	90	Quiziniz niçin 5? Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. Ayrıca yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. İlk hafta olduğundan az puan kestim	45	100	Mekanizma ok gösterimlerinizde hatalar var çok.
-90230217	80	90	Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter.	55	100	Elinize sağlık. Bazı ok gösterimlerinizde hatalarınız var. Ayrıca referanslarınızı bilimsel yayınlardan veriniz scopus üzerinden bulduğunuz.
-90230259	95	100	Bu rapordan geçmişte 90 almışsınız ancak ilk hafta olduğundan referans eksikliğinden puan kırmadım. Ayrıca raporunuzda yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim.	95	100	Elinize sağlık. Bir iki nokta var sadece o da bir atak başlıyorsa ok sonuna kadar gitmeli. Sizde silah patladığı gözüküyor ancak kurşunun nereye gittiği belli değil. Son durağa kadar elektron götürülmeli. Ardışık bir şekilde aynı molekül üzerinde gösterilebilir. H'lar kopması gösteriyorsunuz ama H 2 bağ yapıyor aslında o ok gösterimi ile.
-90210266	75.0		
-90210774	85.0		
-90220205	30.0		
-90220224	85.0		
-90220230	90.0		
-90220259	95.0		
-90220269	55.0		
-90230207			
-90230250	45.0		
-90240755	70.0		
-90250706	40.0		
-140200062	65.0		
-90210252	85.0		
-90210272	65.0		
-90220201	90.0		
-90220212	100.0		
-90220237	85.0		
-90220250	65.0		
-90220266	80.0		
-90220725	80.0		
-90230216	80.0		
-90230236	65.0		
-90230245	100.0		
-90230724	75.0		
-90220248	65.0		
-ORTALAMALAR	69.9	85.8	
+Öğrenci Numarası	Quiz 1 Notu	Rapor 1 Notu	Hafta 1 Açıklama	Quiz 2 Notu	Rapor 2 Notu	Hafta 2 Açıklama	Quiz 3 Notu	Rapor 3 Notu	Hafta 3 Açıklama
+90210209	55	90	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 	30	90	Bir referans yetersiz ve açıklamalarınız eksik. X, Y, Z oldu değil o olaylar neden yaşandı? TLC tercih etmedik GPC daha iyi olur peki neden? Spektrumları vermişsiniz hiçbir açıklama eklememişsiniz kim nerede.	60	100	
+90210232	10	0	Gecikmiş olan rapor işlenmiştir.	50	100	Birçok ok gösteriminzde hata var.	85	100	Temiz ve güzel bir rapor. Tebrikler.
+90210263	55	95	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi, peki, tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Sülfolamalardan vs bahsettik ancak sondaki yorumlamalarınız kapsayıcı değil. Ayrıca spektral analizleri göstermemişsiniz sadece dalga boylarından bahsetmişsiniz. FTIR, UV veya NMR gibi spektral yöntemleri işlevsizse nedenini belirtmenizi, işlevsel olanın da nasıl bir spektrum vereceğini çizmenizi bekliyoruz. İlk hafta olduğudnan fazla puan kırmadım. 	25	100	Birçok ok gösteriminzde ciddi hatalar var.	50	100	TLC çiziminiz hatalı. Ürün direkt saf olarak gözlemlenmedi ve Rf değeri en yüksek olan o değildi. 
+90220228	45	80	Reaksiyon mekanizmalarını ve spektral analizleri göstermemişsiniz. İlk hafta olduğundan az puan kırdım.	40	80	Spektral analizler ve ilgili açıklamaları yok. 1 referans yetersiz. Mekanizmada da + ve -'leri yuvarlak içine almalısın. Bazen almışsın bazen almamışsın hiç almasan daha iyi olabilirdi öyle karışık duruyor yani. 	75	80	Reaksiyon mekanizmalarını göstermemişsiniz. 
+90220235	85	100	Elinize sağlık. Çok güzel bir rapor tebrikler.	80	100	Çok temiz ve güzel bir rapor elinize sağlık. Mekanizma gösterimlerinizde çok ufak 1-2 nokta var. O da atak oklarının elektrondan başlamsı gereği. Bir de enol keto tautomerizasyonunu rezonans olarak göstermişsiniz ancak hayır. O bir denge reaksiyonudur.	90	100	Çok temiz ve güzel bir rapor. Tebrikler. 
+90220244	90	95	Elinize sağlık. Mekanizma gösterimlerinizde eksik oklar var. Son ürüne kadar götürmelisiniz oklarınızı. Elektronun vardığı son atoma veya bağa kadar devam etmeli. Bu sınavda eksik puan almanıza neden olacaktır. Raporlarınızda yanlış yaptığınız zaman puan kırmıyorum, yapılmayanlardan kırıyorum. Dolayısıyla yanlış yapmaktan korkmayınız. Son olarak spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. İlk hafta olduğundan az puan kestim 	60	100	Çok temiz ve güzel bir rapor. Tebrik ederim. Diyecek pek bir şey yok. Keşke quiz puanınız da benzer olsaymış.	50	0	Raporunuz sistemde gözükmüyor.
+90220256	85	100	Harika bir rapor tebrikler. 	100	100	Çok güzel rapor hazırlıyorsunuz. Tebrik ve teşekkür ederim. Hem quizinizin hem raporunuzun 100 olması oldukça güzel.	95	100	Tebrik ederim. Raporunuzda bir tane çok ciddi hata var. Sülfatın nükleofilliği yoktur. Sülfolama SO3 üzerinden veya S2O7 esteri üzerinden aromatik halka atağıyla gerçekleşir. Ona dikkat bu çok kritik. Asla sülfatı nükleofil olarak bir yere saldırtmayın.
+90220261	80	90	Her şeye doğrudan ne gördüğünüzü yazmışsınız. İyi peki tamam ancak neden onu gördüğünüzü de yazmanızı bekliyoruz. Ayrıca spektral analizleri göstermemişsiniz. İlk hafta olduğudnan fazla puan kırmadım. 	50	85	Açıklamalarınız çok geçiştirme üzerine ve oldukça yetersiz. Yan ürün tahminleri vs. hiçbir şey bulunmuyor. Deneyde mekanizma anlatımımızı hatırlıyorsanız daha kaliteli açıklamalarla bu yan ürün oluşumlarını sizin ne gördüğünüzü vs. tartışmalısınız.Ek kaynakça sunmalısınız. 	50	50	
+90220719	60	100	Tebrikler, ancak lütfen organik kimya laboratuvarı föyünü referans olarak göstermeyiniz.	70	95	Referans sayısını arıtmalısınız. Yan ürün tartışmaları yapılabilir	50	80	Mekanizma ve spektral
+90230214	5	90	Quiziniz niçin 5? Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. Ayrıca yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim.  İlk hafta olduğundan az puan kestim 	45	100	Mekanizma ok gösterimlerinizde hatalar var çok.	40	100	Kaynakçayı sona koymak doğru olandır. Kaynakçayı gördükten sonra raporunuz eksik sandım o şekilde not verdim ilk anda. Mekanizma gösterimlerinizde de ciddi hatalar devam etmektedir. 
+90230217	80	90	Raporunuzda spektrumları lütfen çizerek gösteriniz. Bir deney, sentezi takiben karakterizasyonu da gerçekleştirdikten sonra biter. 	55	100	Elinize sağlık. Bazı ok gösterimlerinizde hatalarınız var. Ayrıca referanslarınızı bilimsel yayınlardan veriniz scopus üzerinden bulduğunuz.	50	100	
+90230259	95	100	Bu rapordan geçmişte 90 almışsınız ancak ilk hafta olduğundan referans eksikliğinden puan kırmadım. Ayrıca raporunuzda yanlış yapmaktan çekinmeyiniz. Raporda yanlışlardan puan kırmıyorum, eksik kısımlardan kırıyorum. Yanlış bir şeyler yazın, fikirlerinizi belirtin ki buradan feedback verebileyim. 	95	100	Elinize sağlık. Bir iki nokta var sadece o da bir atak başlıyorsa ok sonuna kadar gitmeli. Sizde silah patladığı gözüküyor ancak kurşunun nereye gittiği belli değil. Son durağa kadar elektron götürülmeli. Ardışık bir şekilde aynı molekül üzerinde gösterilebilir. H'lar kopması gösteriyorsunuz ama H 2 bağ yapıyor aslında o ok gösterimi ile.	80	100	
+90210266	75			50			50		
+90210774	85			25			60		
+90220205	30			40			85		
+90220224	85			70			65		
+90220230	90			65			50		
+90220259	95			85			80		
+90220269	55			45			85		
+90230207	G			G			G		
+90230250	45			65			50		
+90240755	70			70			60		
+90250706	40			60			45		
+140200062	65			60			50		
+90220248	65			60			45		
+90210252	85	95		40			70		
+90210272	65	95		50			40		
+90220201	90	95		50			75		
+90220212	100	95		60			50		
+90220237	85	100		50			70		
+90220250	65	95		55			90		
+90220266	80	100		50			65		
+90220725	80	40		10			80		
+90230216	80	75		50			60		
+90230236	65	95		45			55		
+90230245	100	100		100			95		
+90230724	75	80		25			50		
+ORTALAMALAR	69,9	87,3		55,0	95,8		63,9	84,2	
