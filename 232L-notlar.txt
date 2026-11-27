@@ -37,20 +37,3 @@
 90230245	100	100		100	100		95	100		90	100		63	100	Takip sorusu FTIR ile çözülecekti, boş bırakmışsın.	95			100
 90230724	75	80		25	95		50	95		80	100		33	100		52			35
 ORTALAMALAR	69,9	91,5		55,0	96,1		63,9	87,1		71,2	90,6		60,7	89,2		75,3	95,0		50,1
-90230244	95	80		60	85		50	85		25	80	Sürekli ekstraksiyon düzenekleri eksik, kurutucu kısmı eksik, emülsiyon eksik	10						
-90230803	70	100		90	100	Tebrikler	55	100	Tebrikler	75	95	Kimyasal ekstraksiyon için diğer akım şeması da eklenmeliydi	60						
-90240242	90	80		50	85		50	90		65	90	Kimyasal ekstraksiyon için diğer akım şeması da eklenmeliydi. Ayrıca emülsiyon ve kurutucu kısmı çok yüzeysel	65						
-90240724	70	100		100	100	Rapor içeriği çok iyi hazırlanmış, tebrikler.	50	100	Rapor içeriği çok iyi hazırlanmış, tebrikler.	65	100	Çok iyi hazırlanmış bir rapor, tebrikler	65						
-90250705	100	95		70	100		50	95		40	70	Çok yüzeysel bir rapor olmuş, biraz daha detaylı hazırlanmalıydı. Düzenekler eksik.	35						
-90260704	60	90	Rapor el ile yazılmalı, ilk rapor olduğu için puan kırmadım ancak gelecek raporlar el yazısı ile hazırlanmalıdır.	95	90	Rapor el yazısı ile hazırlanmalı, 10 puan buradan kırdım ancak gelecek raporlarda daha fazla puan kırmak durumdayım. Onun dışında güzel hazırlanmış bir rapor, tebrikler.	100	85		80	90	Kimyasal ekstraksiyon için diğer akım şeması da eklenmeliydi	50						
-50240006	85	80		85	90		50	80		20	0		40						
-90220203	90			100			20			60			80						
-90220267	75			100			50			75			50						
-90230219	60			100			85			40			10						
-90230230	60			65			50			35			20						
-90230235	G			65			50			50			65						
-90230247	55			65			50			40			28						
-90230911	90			100			100			90			85						
-90240258	40			75			25			60			50						
-90240729	80			50			50			60			55						
-503251801	80			95			70			40			30						
